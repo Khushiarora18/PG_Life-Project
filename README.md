@@ -1,4 +1,4 @@
-![Screenshot (66)](https://github.com/Khushiarora18/PG_Life-Project/assets/91714234/76d75550-be07-460c-a8f2-441705fda131)
+
 # PG_Life-Project
 PG Life is a dynamic web application providing a user-friendly platform for managing shared accommodations, fostering seamless communication and streamlined organization.
 
@@ -38,6 +38,7 @@ This web app has the following functionalities:-
 	f. The heart icon toggles style in terms of fill color, when alternatively clicked to like or dislike the pg. Based upon click, interested user's number remains updated dynamically.
 ![Screenshot (64)](https://github.com/Khushiarora18/PG_Life-Project/assets/91714234/915279a4-74f1-45ee-92f9-b3d7ca7b9637)
 ![Screenshot (65)](https://github.com/Khushiarora18/PG_Life-Project/assets/91714234/a09d1965-2db7-499c-9f19-c3a7e87edf89)
+![Screenshot (66)](https://github.com/Khushiarora18/PG_Life-Project/assets/91714234/76d75550-be07-460c-a8f2-441705fda131)
 
 
 
